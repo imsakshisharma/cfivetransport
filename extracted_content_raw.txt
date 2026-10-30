@@ -1,0 +1,41 @@
+﻿<h1 class="wp-block-site-title"><a href="https://cfivetransport.com" target="_self" rel="home" aria-current="page">C Five Transport</a></h1>
+<p class="wp-block-paragraph"></p>
+href="mailto:andrew@cfivegroup.com"
+<h2 class="wp-block-heading alignwide" style="text-transform:uppercase"><strong>DELIVERING YOU PEACE OF MIND.</strong>.</h2>
+<h3 class="wp-block-heading" style="text-transform:uppercase">My Setup</h3>
+<h3 class="wp-block-heading">Working with Me</h3>
+<h2 class="wp-block-heading alignwide" style="text-transform:capitalize">What people are saying</h2>
+<h3 class="wp-block-heading">1964 Ford Falcon Futura</h3>
+<p class="has-small-font-size wp-block-paragraph" style="margin-top:0">12/14/2022</p>
+<p class="wp-block-paragraph">What a great experience with Andrew at C Five Transport. Andrew is very professional, also very flexible on date and times. Andrew picked up one of my cars in Kirkland and took it to Eastern WA, and dropped it off. And picked up one of my cars there and brought it back to Kirkland. All in the same day! Thank you Andrew for taking good care of my special vehicles!</p>
+<p class="wp-block-paragraph">I highly recommend Andrew and C Five Transport for transportation of automobiles and anything else.</p>
+<h3 class="wp-block-heading">China Hutch</h3>
+<p class="has-small-font-size wp-block-paragraph" style="margin-top:0">11/20/2022</p>
+<p class="wp-block-paragraph">Andrew was incredible to work with! I&#8217;ve never had to use cross country moving service before so I was skeptical on how it worked. Andrew over communicated throughout the entire process and it was fantastic. He picked up a very special family furniture piece and drove it cross country to me. It arrived extremely quick and intact. He gave updates throughout and arrived right on time. I HIGHLY recommend to use him . I wish I had more things that needed moved so I can hire Andrew again!</p>
+<h2 class="wp-block-heading alignwide" style="margin-top:var(--wp--preset--spacing--60)">C Five Transport Reviews</h2>
+<p class="wp-block-paragraph">Top notch service at a reasonable price. My Sea Doo and trailer arrived in perfect condition and on time. Updates along the way were a great reassurance. Five stars!</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>Boats and Water Vehicles from Americus, GA to Paducah, KY</strong></p>
+<p class="wp-block-paragraph">Andrew is phenomenal! Kept me posted the whole trip from Arizona to Kentucky. My Slingshot arrived in perfect condition as it was enclosed. Would use his service anytime I need a transport. Outstanding service, fair pricing and always communicates.</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>3-Wheelers from Marana, AZ to Louisville, KY</strong></p>
+<p class="wp-block-paragraph">Fantastic, great communication, fast, courteous, and a nice watch dog to protect the shipment.</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>Scooters from Huntsville, AL to Hollywood, FL</strong></p>
+<p class="wp-block-paragraph">Absolutely fantastic experience! Andrew was so nice and considerate. He communicated so promptly; very efficient &amp; professional. This is my first time using this sort of service and I&#8217;m sold! I hope all the drivers are as fantastic as Andrew! Highly recommend!</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>Furniture from Los Angeles, CA to Gilbert, AZ</strong></p>
+<p class="wp-block-paragraph">Top notch service. I&#8217;ve worked with quite a few transporters and C Five is one of the best I have used to transport equipment. I would definitely use C Five as a transporter again.</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>1 piece of fitness equipment</strong></p>
+<p class="wp-block-paragraph">It was incredibly easy to arrange transportation. Communicative and friendly. Items were delivered precisely on time and in the same condition as when they were picked up. Would definitely recommend to others!</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>Boxes from Nashville, TN to Buckley, WA</strong></p>
+<p class="wp-block-paragraph">Andrew was easy to communicate with. My Motorcycle arrived quick and on time and in perfect condition.</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>Dirt Bikes from Nashville, TN to Grand Junction, CO</strong></p>
+<p class="wp-block-paragraph">Great experience with Andrew! He was timely, communicated well, sent us pictures and was reliable! My husband never trusts anyone and even he approved of him! Will do business with him again if needed!</p>
+<p class="has-heading-font-family has-small-font-size has-custom-font wp-block-paragraph" style="font-family:heading"><strong>Motorcycles from Waddell, AZ to San Diego, CA</strong></p>
+<h2 class="wp-block-heading" style="text-transform:uppercase">C Five Transport is about more than getting your precious cargo transported and delivered safely.</h2>
+<h3 class="wp-block-heading" style="text-transform:uppercase">About C Five Transport</h3>
+<p class="wp-block-paragraph">I was raised in the Rockies, learning young what it takes to maneuver a pickup truck on winding roads and black ice. I fell in love with the freedom of an endless highway and always felt at home traveling.</p>
+<p class="wp-block-paragraph">After working for The Washington Motorcycle Road Racing Association, where I raced and hauled bikes, I purchased my very own trailer. Since then I’ve lived in dozens of places, logged thousands of miles, and delivered countless loads securely to their destinations.</p>
+<p class="wp-block-paragraph">I love establishing long-lasting, meaningful connections and managing all the heavy stuff so that you don&#8217;t have to.</p>
+<p class="wp-block-paragraph">Delivering you peace of mind.</p>
+<h3 class="wp-block-heading">Fees and Conditions</h3>
+<p class="has-text-align-center wp-block-paragraph" style="text-transform:uppercase">Contact Me</p>
+<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size">‭<a href="tel:760-529-7249‬" target="_blank" rel="noreferrer noopener">760-529-7249</a>‬<br><a href="mailto:andrew@cfivegroup.com" target="_blank" rel="noreferrer noopener">andrew@cfivegroup.com</a></h2>
+<p class="has-text-align-center wp-block-paragraph">© 2024 C Five Transport. All Rights Reserved.</p>

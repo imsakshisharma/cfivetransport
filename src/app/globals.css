@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+/* Default / Version A: Corporate Premier (Navy & Amber Gold) */
+:root,
+[data-theme="version-a"] {
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  --primary: #0b2545;
+  --primary-hover: #134074;
+  --primary-foreground: #ffffff;
+
+  --accent: #d97706;
+  --accent-hover: #b45309;
+  --accent-foreground: #ffffff;
+
+  --surface: #ffffff;
+  --surface-muted: #f1f5f9;
+  --surface-subtle: #e2e8f0;
+  --border-color: #e2e8f0;
+
+  --card-bg: #ffffff;
+  --card-foreground: #0f172a;
+
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --muted-foreground: #64748b;
+
+  --nav-bg: #07172b;
+  --nav-foreground: #ffffff;
+
+  --hero-gradient: linear-gradient(135deg, rgba(11, 37, 69, 0.95) 0%, rgba(19, 64, 116, 0.88) 100%);
+  --badge-glow: rgba(217, 119, 6, 0.15);
+}
+
+/* Version B: Clean Light Modern Logistics (Crisp White, Slate & Highway Orange) */
+[data-theme="version-b"] {
+  --font-heading: 'Montserrat', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  --primary: #0f172a;
+  --primary-hover: #1e293b;
+  --primary-foreground: #ffffff;
+
+  --accent: #ea580c;
+  --accent-hover: #c2410c;
+  --accent-foreground: #ffffff;
+
+  --surface: #ffffff;
+  --surface-muted: #f8fafc;
+  --surface-subtle: #f1f5f9;
+  --border-color: #e2e8f0;
+
+  --card-bg: #ffffff;
+  --card-foreground: #0f172a;
+
+  --background: #ffffff;
+  --foreground: #0f172a;
+  --muted-foreground: #475569;
+
+  --nav-bg: #ffffff;
+  --nav-foreground: #0f172a;
+
+  --hero-gradient: linear-gradient(135deg, rgba(248, 250, 252, 0.98) 0%, rgba(241, 245, 249, 0.95) 100%);
+  --badge-glow: rgba(234, 88, 12, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--background);
+  color: var(--foreground);
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  letter-spacing: -0.02em;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Glassmorphism helpers */
+.glass-header {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Wireframe device simulation container */
+.wireframe-phone-shell {
+  max-width: 420px;
+  margin: 2rem auto;
+  border: 14px solid #1e293b;
+  border-radius: 46px;
+  overflow: hidden;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.4);
+  position: relative;
+  background: #ffffff;
+}
